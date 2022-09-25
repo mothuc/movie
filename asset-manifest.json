@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doanmovie/static/css/main.338c982f.css",
+    "main.js": "/doanmovie/static/js/main.730b0d60.js",
+    "static/js/787.114dd036.chunk.js": "/doanmovie/static/js/787.114dd036.chunk.js",
+    "index.html": "/doanmovie/index.html",
+    "main.338c982f.css.map": "/doanmovie/static/css/main.338c982f.css.map",
+    "main.730b0d60.js.map": "/doanmovie/static/js/main.730b0d60.js.map",
+    "787.114dd036.chunk.js.map": "/doanmovie/static/js/787.114dd036.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.338c982f.css",
+    "static/js/main.730b0d60.js"
+  ]
+}
